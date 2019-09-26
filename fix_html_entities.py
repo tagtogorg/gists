@@ -18,6 +18,8 @@
 #
 # As a module, use `fix_anndoc` in your own python code to your best convenience.
 #
+# Finally, optionally you can POST the fixed ann.json files back to tagtog.
+#
 #
 # CAUTION: please make sure to BACK UP your ann.json files before you run this script.
 #
